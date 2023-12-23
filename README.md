@@ -1,4 +1,4 @@
-# Flask-API-Student-Application
+# Flask API Student Application
 A Student web application with RESTful API and database models using Flask-RESTful and flask-SQLAlchemy.
 
 ## Requirements
